@@ -7,3 +7,10 @@ Python Web Scraping and Database Integration: A collection of scripts for easy w
 
 ## from coursera course hava all basic 
 https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-engineer
+
+
+## course on youtube 
+
+### Web Scraping with Python - Beautiful Soup Crash Course
+
+https://youtu.be/XVv6mJpFOb0?si=FMbpkh7XhyJfZ7Yc
